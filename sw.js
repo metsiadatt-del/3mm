@@ -1,4 +1,4 @@
-const VERSION = '38ee8f6a6b20-manifest-v2';
+const VERSION = '7b3422090975';
 const CACHE = `met-static-${VERSION}`;
 const BASE = new URL('./', self.location.href);
 const PRECACHE = new URL('precache.json', BASE);
